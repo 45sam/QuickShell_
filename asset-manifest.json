@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuickShell_/static/css/main.ec1e9bbd.css",
+    "main.js": "/QuickShell_/static/js/main.1a82d643.js",
+    "static/js/453.37753ddd.chunk.js": "/QuickShell_/static/js/453.37753ddd.chunk.js",
+    "index.html": "/QuickShell_/index.html",
+    "main.ec1e9bbd.css.map": "/QuickShell_/static/css/main.ec1e9bbd.css.map",
+    "main.1a82d643.js.map": "/QuickShell_/static/js/main.1a82d643.js.map",
+    "453.37753ddd.chunk.js.map": "/QuickShell_/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec1e9bbd.css",
+    "static/js/main.1a82d643.js"
+  ]
+}
